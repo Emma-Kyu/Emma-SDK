@@ -1,2 +1,2 @@
 # Emma-SDK
-A python repository that implements and demonstrates Emma integrations
+This repository contains the API documentation and a reference python implementation for allowing Emma to play games through function calls
